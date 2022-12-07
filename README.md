@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grech
 - 👀 I’m interested in ... machine learning  and  predictive analytics
 - 🌱 I’m currently learning ... DS and react JS
-- 💞️ I’m looking to collaborate on ...
+- 🦾 I'm a backend developer 
 - 📫 How to reach me ... gestradach@gmail.com
 
 <!---
