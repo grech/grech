@@ -1,7 +1,8 @@
+# Hello World! 💻
 - 👋 Hi, I’m @grech
 - 👀 I’m interested in ... machine learning  and  predictive analytics
-- 🌱 I’m currently learning ... DS and react JS
-- 🦾 I'm a backend developer 
+- 🌱 I’m currently learning ... Astro 
+- 🦾 I'm a Fullstack developer 
 - 📫 How to reach me ... gestradach@gmail.com
 
 <!---
