@@ -1,23 +1,61 @@
-# Hello World! 💻
-🌟 Full Stack Developer | Scalable Web Applications | Problem Solver
+# 💼 About Me — Memo Estrada  
+*Full Stack Developer · Software Engineer · Clean Code Enthusiast*
 
-Hi! I'm Memo Estrada — a developer with over **10 years of experience** designing, analyzing, and building **high-impact, scalable web applications** tailored to a variety of industries.
+---
 
-I’m passionate about turning complex challenges into clean, intuitive digital solutions. Whether it's creating dashboards for business intelligence, architecting efficient backend systems, or building seamless user interfaces, my goal is always to deliver **value through technology**.
+## 👋 Who Am I?
 
-💡 I focus on:
-- Scalable backend architecture
-- Clean and intuitive frontend development
-- Data modeling and database optimization
-- Building tools that help businesses make smarter decisions
+I'm **Memo Estrada**, a passionate Full Stack Developer with over **10 years of experience** designing, building, and scaling **custom web applications** for real-world needs.
 
-🧰 My toolset includes:
+I turn complex requirements into **clean, scalable, and maintainable software** — always focused on delivering real business value with thoughtful architecture and user-centered design.
+
+---
+
+## 🚀 What I Do
+
+| 🧩 Area               | ✅ Focus                                                         |
+|-----------------------|------------------------------------------------------------------|
+| Frontend Development  | React.js · Astro · TailwindCSS                                   |
+| Backend Engineering   | Node.js · Express · TypeScript                                   |
+| Database Design       | MySQL · PostgreSQL · MongoDB · Oracle DB                         |
+| Tools & Best Practices| Git · GitHub · Docker · REST APIs · Clean Architecture           |
+| Business Impact       | KPI Dashboards · Admin Panels · Custom Process Automation        |
+
+---
+
+## 🛠️ Tech Toolbox
+
+
 JavaScript • TypeScript • Node.js • React • Astro • TailwindCSS • MySQL • PostgreSQL • MongoDB • Docker • Git • and more...
 
-What sets me apart is my ability to **bridge business needs with technical execution**, communicate clearly across teams, and adapt quickly to new tools and environments.
+---
 
-📬 Feel free to connect if you're hiring, collaborating, or simply want to geek out about clean code and product design.
+## 💡 What Makes Me Different
 
-👉 github.com/grech  
-👉 linkedin.com/in/memoech  
-👉 Coming soon: memoech.dev
+- ✅ Full product mindset — from idea, to architecture, to deployment.
+- 💬 Strong communicator who bridges tech and business.
+- ✨ Focused on performance, security, and code readability.
+- 🚀 Fast learner and high-adaptability to new tools & teams.
+
+---
+
+## 🤝 Let’s Connect
+
+Whether you're hiring, building something meaningful, or simply enjoy talking tech —  
+📬 **I’d love to connect and collaborate.**
+
+
+🔗 [LinkedIn](https://www.linkedin.com/in/memoech)  
+🌐 Portfolio: **Coming soon — memoech.dev** 😎
+
+---
+
+## ✅ Open To:
+
+- Remote Full Stack roles  
+- Freelance collaborations  
+- Projects that need reliable, clean, scalable solutions
+
+---
+
+> _"Code isn’t just about solving problems — it’s about creating tools that empower people."_ 💡
