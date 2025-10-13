@@ -46,7 +46,7 @@ Whether you're hiring, building something meaningful, or simply enjoy talking te
 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/memoech)  
-🌐 Portfolio: **Coming soon — memoech.dev** 😎
+🌐 [Portfolio](https://memoech.netlify.app/)
 
 ---
 
