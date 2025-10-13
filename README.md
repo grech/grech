@@ -16,8 +16,8 @@ I turn complex requirements into **clean, scalable, and maintainable software** 
 | 🧩 Area               | ✅ Focus                                                         |
 |-----------------------|------------------------------------------------------------------|
 | Frontend Development  | React.js · Astro · TailwindCSS                                   |
-| Backend Engineering   | Node.js · Express · TypeScript                                   |
-| Database Design       | MySQL · PostgreSQL · MongoDB · Oracle DB                         |
+| Backend Engineering   | Node.js · Express · TypeScript, Pyhton                           |
+| Database Design       | Oracle DB · MySQL · PostgreSQL · MongoDB                         |
 | Tools & Best Practices| Git · GitHub · Docker · REST APIs · Clean Architecture           |
 | Business Impact       | KPI Dashboards · Admin Panels · Custom Process Automation        |
 
