@@ -59,3 +59,5 @@ Whether you're hiring, building something meaningful, or simply enjoy talking te
 ---
 
 > _"Code isn’t just about solving problems — it’s about creating tools that empower people."_ 💡
+> >
+> — **Neal Chopra**
